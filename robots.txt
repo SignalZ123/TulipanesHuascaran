@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# CONFIRMAR: reemplaza el dominio por el real
+Sitemap: https://www.tulipaneshuascaran.pe/sitemap.xml
